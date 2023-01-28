@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/117273434/215255371-c05fe5f3-a4f3-484d-a25a-df2d8feba2d3.png)
 
-# 2.2 XỬ LÝ CHỨC NĂNG 
+# 2.2 XỬ LÝ CHỨC NĂNG (SPRING BOOT)
 
 ![image](https://user-images.githubusercontent.com/117273434/215255390-f0823260-4979-4853-a28e-28f28931f574.png)
 
