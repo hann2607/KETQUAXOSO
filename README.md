@@ -1,6 +1,6 @@
 # KẾT QUẢ XỔ SỐ
 
-![image](http://picture.dzogame.vn/Img/cms13013043606460682739.jpg)
+![image](https://user-images.githubusercontent.com/117273434/215255636-ede5b610-c846-413c-ae8c-3a45d7c7fe03.png)
 
 ## MỤC LỤC
 [1. GIAO DIỆN](#UI)  
