@@ -1,4 +1,4 @@
-# KẾT QUẢ XỔ SỐ
+<h1 align="center">KẾT QUẢ XỔ SỐ</h1>
 
 ![image](https://user-images.githubusercontent.com/117273434/215255636-ede5b610-c846-413c-ae8c-3a45d7c7fe03.png)
 
